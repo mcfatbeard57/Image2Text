@@ -61,4 +61,4 @@ This code outline showcases a high-level approach using TensorFlow/PyTorch for i
 - Consider transfer learning strategies if labeled medical invoice data is limited.
 - Continuously monitor and improve model performance over time with new data.
 
-**Remember:** This is a high-level overview. Specific code implementations will depend on your chosen libraries, frameworks, and cloud platform. Refer to the documentation for each library and cloud platform for detailed usage instructions. 
+**Remember:** This is a high-level overview. Specific code implementations will depend on your chosen libraries, frameworks, and cloud platform. Refer to the documentation for each library and cloud platform for detailed usage instructions. .
